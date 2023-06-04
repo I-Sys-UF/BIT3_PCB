@@ -18,3 +18,7 @@ KiCad 7.0.2 にて設計
 | F1 | リセッタブルヒューズ | [P-12632](https://akizukidenshi.com/catalog/g/gP-12632/) |
 | SW1, SW2 | タクタイルスイッチ | [P-03647](https://akizukidenshi.com/catalog/g/gP-03647/) |
 | J1, J2 | 2 列ピンヘッダ | [C-00080](https://akizukidenshi.com/catalog/g/gC-00080/) |
+
+# 回路図
+
+![BIT3＿Schematic](https://github.com/I-Sys-UF/BIT3_PCB/assets/91242561/552291c8-88b8-4a2f-be7e-2bd0bcfeeb77)
