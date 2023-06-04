@@ -21,4 +21,4 @@ KiCad 7.0.2 にて設計
 
 # 回路図
 
-![BIT3＿Schematic](https://github.com/I-Sys-UF/BIT3_PCB/assets/91242561/552291c8-88b8-4a2f-be7e-2bd0bcfeeb77)
+![BIT3＿Schematic](./BIT3.svg)
