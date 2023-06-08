@@ -33,3 +33,7 @@ KiCad 7.0.x にて設計
   - 接続されていない GND ベタが存在する問題を修正
 - `v1.3`
   - モータ・ドライバに電源が供給されていない問題を修正
+
+# ライセンス
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際 ライセンス</a>の下に提供されています。
