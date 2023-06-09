@@ -27,11 +27,11 @@ KiCad 7.0.x にて設計
 
 # 回路図
 
-![BIT3＿Schematic](./BIT3.svg)
+![BIT3＿Schematic](./img/BIT3.svg)
 
 # 基板デザイン
 
-![BIT3＿PCB](BIT3_PCB_Design.png)
+![BIT3＿PCB](./img/BIT3_PCB_Design.png)
 
 # 更新履歴
 
