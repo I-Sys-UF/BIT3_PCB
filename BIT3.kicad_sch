@@ -4051,6 +4051,36 @@
     )
   )
 
+  (symbol (lib_id "power:+3V3") (at 33.02 167.64 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 6850426f-61e1-4ae5-aefb-1719ab33cdc4)
+    (property "Reference" "#PWR027" (at 33.02 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3V3" (at 33.02 163.83 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 33.02 167.64 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 33.02 167.64 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid aa5e1449-03c2-4d03-aecf-da09d5b464a6))
+    (instances
+      (project "RP2040-BasicDesign"
+        (path "/14b941fc-8df0-4613-ad34-21e1e03e5f30"
+          (reference "#PWR027") (unit 1)
+        )
+      )
+      (project "BIT3"
+        (path "/e911d5a5-765c-4e39-aa6a-9a13739432fd"
+          (reference "#PWR025") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+BATT") (at 185.42 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6a9e5de8-ea99-4e24-af83-690f0aa73d19)
@@ -4096,6 +4126,32 @@
       (project "BIT3"
         (path "/e911d5a5-765c-4e39-aa6a-9a13739432fd"
           (reference "#PWR08") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C") (at 33.02 171.45 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 6b260fb6-9797-4e37-be48-f53b7e39a25c)
+    (property "Reference" "C3" (at 36.83 170.815 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "C" (at 36.83 173.355 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm" (at 33.9852 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 33.02 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a297ff4d-82e2-412e-8be3-04327f786e93))
+    (pin "2" (uuid 7ca6781e-4a55-49e8-8d4f-9fe749d9b38d))
+    (instances
+      (project "BIT3"
+        (path "/e911d5a5-765c-4e39-aa6a-9a13739432fd"
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -4249,6 +4305,31 @@
       (project "BIT3"
         (path "/e911d5a5-765c-4e39-aa6a-9a13739432fd"
           (reference "R13") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 33.02 175.26 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 7acbb0fa-ffd8-42b4-abb4-22ef70ba1ea1)
+    (property "Reference" "#PWR026" (at 33.02 181.61 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 33.02 180.34 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 33.02 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 33.02 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3beb2c58-e28e-406d-9492-2b9155abade5))
+    (instances
+      (project "BIT3"
+        (path "/e911d5a5-765c-4e39-aa6a-9a13739432fd"
+          (reference "#PWR026") (unit 1)
         )
       )
     )
