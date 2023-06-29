@@ -23,7 +23,7 @@ KiCad 7.0.x にて設計
 | U8 | AE-DRV8835 | [K-09848](https://akizukidenshi.com/catalog/g/gK-09848/) |
 | U9 | NJM7805FA | [I-08678](https://akizukidenshi.com/catalog/g/gI-08678/) |
 | Q1 | 2SC1815 | [I-17089](https://akizukidenshi.com/catalog/g/gI-17089/) |
-| F1 | リセッタブルヒューズ | [P-12632](https://akizukidenshi.com/catalog/g/gP-12632/) |
+| F1 | リセッタブルヒューズ | [P-12628](https://akizukidenshi.com/catalog/g/gP-12628/) |
 | SW1 | 電源スイッチ | [P-00300](https://akizukidenshi.com/catalog/g/gP-00300/) |
 | BACK, MODE | タクタイルスイッチ | [P-03647](https://akizukidenshi.com/catalog/g/gP-03647/) |
 | J1, J2 | 2 列ピンヘッダ | [C-00080](https://akizukidenshi.com/catalog/g/gC-00080/) |
