@@ -22,13 +22,16 @@ KiCad 7.0.x にて設計
 | U1 | AE-RP2040 | [K-17542](https://akizukidenshi.com/catalog/g/gK-17542/) |
 | U2 - U6 | TPR-105F | [I-12626](https://akizukidenshi.com/catalog/g/gI-12626/) |
 | U7 | MCP3008 | [I-09485](https://akizukidenshi.com/catalog/g/gI-09485/) |
+| U7 | IC ソケット | [P-00007](https://akizukidenshi.com/catalog/g/gP-00007/) |
 | U8 | AE-DRV8835 | [K-09848](https://akizukidenshi.com/catalog/g/gK-09848/) |
 | U9 | NJM7805FA | [I-08678](https://akizukidenshi.com/catalog/g/gI-08678/) |
 | Q1 | 2SC1815 | [I-17089](https://akizukidenshi.com/catalog/g/gI-17089/) |
 | F1 | リセッタブルヒューズ | [P-12628](https://akizukidenshi.com/catalog/g/gP-12628/) |
 | SW1 | 電源スイッチ | [P-00300](https://akizukidenshi.com/catalog/g/gP-00300/) |
-| BACK, MODE | タクタイルスイッチ | [P-03647](https://akizukidenshi.com/catalog/g/gP-03647/) |
-| J1, J2 | 2 列ピンヘッダ | [C-00080](https://akizukidenshi.com/catalog/g/gC-00080/) |
+| EXEC, MODE | タクタイルスイッチ | [P-03647](https://akizukidenshi.com/catalog/g/gP-03647/) |
+| J1 | 2 列ピンヘッダ | [C-00080](https://akizukidenshi.com/catalog/g/gC-00080/) |
+| J2 | バッテリ接続用ケーブル・コネクタ | 省略 |
+| J3, U1 | 1 列ピンソケット | [C-05779](https://akizukidenshi.com/catalog/g/gC-05779/) |
 
 ## その他の部品
 
