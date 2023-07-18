@@ -9,6 +9,8 @@ KiCad 7.0.x にて設計
 
 # 部品表
 
+## 主要部品
+
 | 部品番号 | 部品名 | 秋月 |
 |:----|:----|:----|
 | R1 - R5, R12 - R16 | 510 Ω | [R-25511](https://akizukidenshi.com/catalog/g/gR-25511/) |
@@ -27,6 +29,16 @@ KiCad 7.0.x にて設計
 | SW1 | 電源スイッチ | [P-00300](https://akizukidenshi.com/catalog/g/gP-00300/) |
 | BACK, MODE | タクタイルスイッチ | [P-03647](https://akizukidenshi.com/catalog/g/gP-03647/) |
 | J1, J2 | 2 列ピンヘッダ | [C-00080](https://akizukidenshi.com/catalog/g/gC-00080/) |
+
+## その他の部品
+
+| 部品名 | 商品名 | リンク |
+|:----|:----|:----|
+| 前輪 | タミヤ　ボールキャスター | <https://tamiyashop.jp/shop/g/g70144> |
+| 後輪 | タミヤ　ダブルギヤボックス（左右独立4速タイプ） | <https://tamiyashop.jp/shop/g/g70168/> |
+| XBee | XBee S2C ワイヤアンテナ型 | <https://www.switch-science.com/products/4089> |
+| XBee 用変換基板 | XBeeエクスプローラ5Vマイコン用 | <https://www.switch-science.com/products/1166> |
+| XBee 用 USB アダプタ | XBeeエクスプローラUSBドングル | <https://www.switch-science.com/products/1790> |
 
 # 回路図
 
