@@ -38,7 +38,8 @@ KiCad 7.0.x にて設計
 | 部品名 | 商品名 | リンク |
 |:----|:----|:----|
 | 前輪 | タミヤ　ボールキャスター | <https://tamiyashop.jp/shop/g/g70144> |
-| 後輪 | タミヤ　ダブルギヤボックス（左右独立4速タイプ） | <https://tamiyashop.jp/shop/g/g70168> |
+| 動力 | タミヤ　ダブルギヤボックス（左右独立4速タイプ） | <https://tamiyashop.jp/shop/g/g70168> |
+| 後輪 | タミヤ　スリムタイヤセット | <https://tamiyashop.jp/shop/g/g70193/> |
 | XBee | XBee S2C ワイヤアンテナ型 | <https://www.switch-science.com/products/4089> |
 | XBee 用変換基板 | XBeeエクスプローラ5Vマイコン用 | <https://www.switch-science.com/products/1166> |
 | XBee 用 USB アダプタ | XBeeエクスプローラUSBドングル | <https://www.switch-science.com/products/1790> |
