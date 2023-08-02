@@ -20,7 +20,7 @@ KiCad 7.0.x にて設計
 | D1 - D5 | 5mm LED | [I-13172](https://akizukidenshi.com/catalog/g/gI-13172/) |
 | D6 | 1N4148 | [I-00941](https://akizukidenshi.com/catalog/g/gI-00941/) |
 | U1 | AE-RP2040 | [K-17542](https://akizukidenshi.com/catalog/g/gK-17542/) |
-| U2 - U6 | TPR-105F | [I-12626](https://akizukidenshi.com/catalog/g/gI-12626/) |
+| U2 - U6 | LBR-127HLD | [P-04500](https://akizukidenshi.com/catalog/g/gP-04500/) |
 | U7 | MCP3008 | [I-09485](https://akizukidenshi.com/catalog/g/gI-09485/) |
 | U7 | IC ソケット | [P-00007](https://akizukidenshi.com/catalog/g/gP-00007/) |
 | U8 | AE-DRV8835 | [K-09848](https://akizukidenshi.com/catalog/g/gK-09848/) |
