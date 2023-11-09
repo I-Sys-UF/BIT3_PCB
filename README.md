@@ -13,8 +13,9 @@ KiCad 7.0.x にて設計
 
 | 部品番号 | 部品名 | 秋月 |
 |:----|:----|:----|
-| R1 - R5, R12 - R16 | 510 Ω | [R-25511](https://akizukidenshi.com/catalog/g/gR-25511/) |
+| R1 - R5 | 100 Ω | [R-25101](https://akizukidenshi.com/catalog/g/gR-25101/) |
 | R6 - R10 | 47 k Ω | [R-25473](https://akizukidenshi.com/catalog/g/gR-25473/) |
+| R12 - R16 | 510 Ω | [R-25511](https://akizukidenshi.com/catalog/g/gR-25511/) |
 | R11、R17 - R21 | 1k Ω | [R-25102](https://akizukidenshi.com/catalog/g/gR-25102/) |
 | C1 - C3 | 0.1 uF | [P-10147](https://akizukidenshi.com/catalog/g/gP-10147/) |
 | D1 - D5 | 5mm LED | [I-13172](https://akizukidenshi.com/catalog/g/gI-13172/) |
