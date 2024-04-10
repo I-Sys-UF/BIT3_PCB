@@ -27,9 +27,9 @@ KiCad 7.0.x にて設計
 | U8 | AE-DRV8835 | [109848](https://akizukidenshi.com/catalog/g/109848/) |
 | U9 | NJM7805FA | [108678](https://akizukidenshi.com/catalog/g/108678/) |
 | Q1 | Nch MOSFET | [107597](https://akizukidenshi.com/catalog/g/107597/) |
-| F1 | リセッタブルヒューズ | [P-12628](https://akizukidenshi.com/catalog/g/112628/) |
+| F1 | リセッタブルヒューズ | [112628](https://akizukidenshi.com/catalog/g/112628/) |
 | SW1 | 電源スイッチ | [100300](https://akizukidenshi.com/catalog/g/100300/) |
-| EXEC, MODE | タクタイルスイッチ | [P-03647](https://akizukidenshi.com/catalog/g/103647/) |
+| EXEC, MODE | タクタイルスイッチ | [103647](https://akizukidenshi.com/catalog/g/103647/) |
 | J1 | 2 列ピンヘッダ | [100080](https://akizukidenshi.com/catalog/g/100080/) |
 | J2 | バッテリ接続用ケーブル・コネクタ | 省略 |
 | J3, U1 | 1 列ピンソケット | [105779](https://akizukidenshi.com/catalog/g/105779/) |
