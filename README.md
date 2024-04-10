@@ -13,26 +13,26 @@ KiCad 7.0.x にて設計
 
 | 部品番号 | 部品名 | 秋月 |
 |:----|:----|:----|
-| R1 - R5, R11 | 100 Ω | [R-25101](https://akizukidenshi.com/catalog/g/gR-25101/) |
-| R6 - R10 | 47 k Ω | [R-25473](https://akizukidenshi.com/catalog/g/gR-25473/) |
-| R12 - R16 | 510 Ω | [R-25511](https://akizukidenshi.com/catalog/g/gR-25511/) |
-| R17 - R21 | 1k Ω | [R-25102](https://akizukidenshi.com/catalog/g/gR-25102/) |
-| C1 - C3 | 0.1 uF | [P-10147](https://akizukidenshi.com/catalog/g/gP-10147/) |
-| D1 - D5 | 5mm LED | [I-13172](https://akizukidenshi.com/catalog/g/gI-13172/) |
-| D6 | 1N4148 | [I-00941](https://akizukidenshi.com/catalog/g/gI-00941/) |
-| U1 | AE-RP2040 | [K-17542](https://akizukidenshi.com/catalog/g/gK-17542/) |
-| U2 - U6 | LBR-127HLD | [P-04500](https://akizukidenshi.com/catalog/g/gP-04500/) |
-| U7 | MCP3008 | [I-09485](https://akizukidenshi.com/catalog/g/gI-09485/) |
-| U7 | IC ソケット | [P-00007](https://akizukidenshi.com/catalog/g/gP-00007/) |
-| U8 | AE-DRV8835 | [K-09848](https://akizukidenshi.com/catalog/g/gK-09848/) |
-| U9 | NJM7805FA | [I-08678](https://akizukidenshi.com/catalog/g/gI-08678/) |
-| Q1 | 2SC1815 | [I-17089](https://akizukidenshi.com/catalog/g/gI-17089/) |
-| F1 | リセッタブルヒューズ | [P-12628](https://akizukidenshi.com/catalog/g/gP-12628/) |
-| SW1 | 電源スイッチ | [P-00300](https://akizukidenshi.com/catalog/g/gP-00300/) |
-| EXEC, MODE | タクタイルスイッチ | [P-03647](https://akizukidenshi.com/catalog/g/gP-03647/) |
-| J1 | 2 列ピンヘッダ | [C-00080](https://akizukidenshi.com/catalog/g/gC-00080/) |
+| R1 - R5, R11 | 100 Ω | [125101](https://akizukidenshi.com/catalog/g/125101/) |
+| R6 - R10 | 47 k Ω | [125473](https://akizukidenshi.com/catalog/g/125473/) |
+| R12 - R16 | 510 Ω | [125511](https://akizukidenshi.com/catalog/g/125511/) |
+| R17 - R21 | 1k Ω | [125102](https://akizukidenshi.com/catalog/g/125102/) |
+| C1 - C3 | 0.1 uF | [110147](https://akizukidenshi.com/catalog/g/110147/) |
+| D1 - D5 | 5mm LED | [113172](https://akizukidenshi.com/catalog/g/113172/) |
+| D6 | 1N4148 | [100941](https://akizukidenshi.com/catalog/g/100941/) |
+| U1 | AE-RP2040 | [117542](https://akizukidenshi.com/catalog/g/117542/) |
+| U2 - U6 | LBR-127HLD | [104500](https://akizukidenshi.com/catalog/g/104500/) |
+| U7 | MCP3008 | [109485](https://akizukidenshi.com/catalog/g/109485/) |
+| U7 | IC ソケット | [100007](https://akizukidenshi.com/catalog/g/100007/) |
+| U8 | AE-DRV8835 | [109848](https://akizukidenshi.com/catalog/g/109848/) |
+| U9 | NJM7805FA | [108678](https://akizukidenshi.com/catalog/g/108678/) |
+| Q1 | Nch MOSFET | [107597](https://akizukidenshi.com/catalog/g/107597/) |
+| F1 | リセッタブルヒューズ | [P-12628](https://akizukidenshi.com/catalog/g/112628/) |
+| SW1 | 電源スイッチ | [100300](https://akizukidenshi.com/catalog/g/100300/) |
+| EXEC, MODE | タクタイルスイッチ | [P-03647](https://akizukidenshi.com/catalog/g/103647/) |
+| J1 | 2 列ピンヘッダ | [100080](https://akizukidenshi.com/catalog/g/100080/) |
 | J2 | バッテリ接続用ケーブル・コネクタ | 省略 |
-| J3, U1 | 1 列ピンソケット | [C-05779](https://akizukidenshi.com/catalog/g/gC-05779/) |
+| J3, U1 | 1 列ピンソケット | [105779](https://akizukidenshi.com/catalog/g/105779/) |
 
 ## その他の部品
 
