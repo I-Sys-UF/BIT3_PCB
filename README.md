@@ -33,6 +33,7 @@ KiCad 7.0.x にて設計
 | J1 | 2 列ピンヘッダ | [100080](https://akizukidenshi.com/catalog/g/g100080/) |
 | J2 | バッテリ接続用ケーブル・コネクタ | 省略 |
 | J3, U1 | 1 列ピンソケット | [105779](https://akizukidenshi.com/catalog/g/g105779/) |
+| J5, J6 | 7 セグメント LED  | [110344](https://akizukidenshi.com/catalog/g/g110344/) |
 
 ## その他の部品
 
