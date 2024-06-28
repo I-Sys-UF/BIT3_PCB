@@ -14,7 +14,7 @@ KiCad 7.0.x にて設計
 | 部品番号 | 部品名 | 秋月 |
 |:----|:----|:----|
 | R1 - R5, R11 | 100 Ω | [125101](https://akizukidenshi.com/catalog/g/g125101/) |
-| R6 - R10 | 10k Ω | [125273](https://akizukidenshi.com/catalog/g/g125273/) |
+| R6 - R10 | 4.7k Ω | [125273](https://akizukidenshi.com/catalog/g/g125273/) |
 | R12 - R16 | 510 Ω | [125511](https://akizukidenshi.com/catalog/g/g125511/) |
 | R17 - R21 | 1k Ω | [125102](https://akizukidenshi.com/catalog/g/g125102/) |
 | C1 - C3 | 0.1 uF | [110147](https://akizukidenshi.com/catalog/g/g110147/) |
